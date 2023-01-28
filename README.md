@@ -1,4 +1,4 @@
-# tiktokclone
+# tiktokclone ref : https://medium.com/dev-genius/how-to-make-tiktok-clone-or-short-video-youtube-flutter-app-a38dff79789e
 
 A new Flutter project.
 
